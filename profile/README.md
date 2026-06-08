@@ -18,4 +18,4 @@
 
 ---
 
-We publish the plugins, tools, and research implementations we build at JustAI - for the community to use, extend, and build upon.
+We publish plugins, tools, and research implementations we build at JustAI - for the community to use, extend, and build upon.
