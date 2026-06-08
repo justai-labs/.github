@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   <strong>AI consulting and engineering, built in the open.</strong><br/>
-  <sub>Designing intelligent systems that amplify human potential — since 2020.</sub>
+  <sub>Designing intelligent systems that amplify human potential - since 2020.</sub>
   <br/><br/>
 
   <a href="https://justai.fr/fr/services#strategie" target="_blank"><img alt="Strategy" src="https://img.shields.io/badge/Strategy-1a1a2e"></a>
@@ -18,4 +18,4 @@
 
 ---
 
-We publish the plugins, tools, and research implementations we build at JustAI — for the community to use, extend, and build upon.
+We publish the plugins, tools, and research implementations we build at JustAI - for the community to use, extend, and build upon.
