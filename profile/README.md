@@ -12,7 +12,7 @@
   <br/>
 
   <a href="https://linkedin.com/company/justai-france" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2"></a>
-  <a href="https://justai.fr" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Site_web-0A66C2"></a>
+  <a href="https://justai.fr" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Website-0A66C2"></a>
 
 </div>
 
